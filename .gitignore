@@ -1,2 +1,4 @@
 img/compressed/*
+!img/compressed/.gitkeep
 img/original/*
+!img/original/.gitkeep
